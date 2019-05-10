@@ -9,7 +9,7 @@ pip install -r requirements.txt
 python mitnotif.py
 ```
 Jangan lupa untuk mengganti ICON_PATH pada baris ke - 6 mitnotif.py
-dengan lokasi penyimpanan icon
+dengan lokasi penyimpanan icon 
 Ganti juga koordinat dan zona waktu pada baris ke - 17 
 
 ## Lisensi
